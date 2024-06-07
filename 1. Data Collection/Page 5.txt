@@ -1,0 +1,1773 @@
+{
+"search_metadata":
+{
+"id":
+"666244350b506202ebd7754c",
+"status":
+"Success",
+"json_endpoint":
+"https://serpapi.com/searches/9d54326e1bfdaeb2/666244350b506202ebd7754c.json",
+"created_at":
+"2024-06-06 23:20:21 UTC",
+"processed_at":
+"2024-06-06 23:20:21 UTC",
+"google_maps_url":
+"https://www.google.com/search?q=Cafe&hl=en&tbm=map&tch=1&pb=!4m9!1m3!1d127483.50713412288!2d101.6841!3d3.1319!2m0!3m2!1i784!2i644!4f13.1!7i20!8i80!10b1!12m8!1m1!18b1!2m3!5m1!6e2!20e3!10b1!16b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sg3qzXsG-JpeGoATHyYKQBw%3A1!2zMWk6MSx0OjExODg3LGU6MCxwOmczcXpYc0ctSnBlR29BVEh5WUtRQnc6MQ!7e81!12e3!17sg3qzXsG-JpeGoATHyYKQBw%3A110!18e15!24m46!1m12!13m6!2b1!3b1!4b1!6i1!8b1!9b1!18m4!3b1!4b1!5b1!6b1!2b1!5m5!2b1!3b1!5b1!6b1!7b1!10m1!8e3!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!30m1!2b1!36b1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i458!2i644!1m6!1m2!1i734!2i0!2m2!1i784!2i644!1m6!1m2!1i0!2i0!2m2!1i784!2i20!1m6!1m2!1i0!2i624!2m2!1i784!2i644!34m13!2b1!3b1!4b1!6b1!8m3!1b1!3b1!4b1!9b1!12b1!14b1!20b1!23b1!37m1!1e81!42b1!47m0!49m1!3b1!50m4!2e2!3m2!1b1!3b0!65m0",
+"raw_html_file":
+"https://serpapi.com/searches/9d54326e1bfdaeb2/666244350b506202ebd7754c.html",
+"prettify_html_file":
+"https://serpapi.com/searches/9d54326e1bfdaeb2/666244350b506202ebd7754c.prettify",
+"total_time_taken":
+1.84
+},
+"search_parameters":
+{
+"engine":
+"google_maps",
+"type":
+"search",
+"q":
+"Cafe",
+"ll":
+"@3.1319, 101.6841,12z",
+"google_domain":
+"google.com",
+"hl":
+"en",
+"start":
+80
+},
+"search_information":
+{
+"local_results_state":
+"Results for exact spelling",
+"query_displayed":
+"Cafe"
+},
+"local_results":
+[
+{
+"position":
+1,
+"title":
+"Top G Coffee & Cafe @ Publika",
+"place_id":
+"ChIJnQZsW8xJzDERCq7fVtyqbCY",
+"data_id":
+"0x31cc49cc5b6c069d:0x266caadc56dfae0a",
+"data_cid":
+"2768775734253039114",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc49cc5b6c069d%3A0x266caadc56dfae0a&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc49cc5b6c069d%3A0x266caadc56dfae0a&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1717668999999997,
+"longitude":
+101.66771779999999
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnQZsW8xJzDERCq7fVtyqbCY",
+"provider_id":
+"/g/11ssgjpsfb",
+"rating":
+4.3,
+"reviews":
+47,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"D5-G4, 05, Jln Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 11 AM",
+"hours":
+"Closed ⋅ Opens 11 AM",
+"operating_hours":
+{
+"friday":
+"11 AM–3 AM",
+"saturday":
+"11 AM–3 AM",
+"sunday":
+"11 AM–3 AM",
+"monday":
+"11 AM–3 AM",
+"tuesday":
+"11 AM–3 AM",
+"wednesday":
+"11 AM–3 AM",
+"thursday":
+"11 AM–3 AM"
+},
+"phone":
+"+60 12-533 0120",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true,
+"delivery":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipOpS4G34mqHQadkQ1uFhdoLrQliBhTZuOrexf2g=w80-h106-k-no"
+},
+{
+"position":
+2,
+"title":
+"Cafe Ame Soeur",
+"place_id":
+"ChIJtauttOhKzDER8PJO3mgMrds",
+"data_id":
+"0x31cc4ae8b4adabb5:0xdbad0c68de4ef2f0",
+"data_cid":
+"15829321909823009520",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4ae8b4adabb5%3A0xdbad0c68de4ef2f0&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4ae8b4adabb5%3A0xdbad0c68de4ef2f0&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0581896,
+"longitude":
+101.67378269999999
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtauttOhKzDER8PJO3mgMrds",
+"provider_id":
+"/g/11cr_sjfch",
+"rating":
+3.6,
+"reviews":
+715,
+"price":
+"$$",
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Coffee shop",
+"Dessert restaurant",
+"Dessert shop",
+"Restaurant",
+"Western restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"coffee_shop",
+"dessert_restaurant",
+"dessert_shop",
+"restaurant",
+"western_restaurant"
+],
+"address":
+"No. 20, Jalil Link Block 2, Jalan Jalil Jaya 2, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 11 AM",
+"hours":
+"Closed ⋅ Opens 11 AM",
+"operating_hours":
+{
+"friday":
+"11 AM–10 PM",
+"saturday":
+"11 AM–10 PM",
+"sunday":
+"11 AM–10 PM",
+"monday":
+"11 AM–9 PM",
+"tuesday":
+"11 AM–9 PM",
+"wednesday":
+"11 AM–9 PM",
+"thursday":
+"11 AM–9 PM"
+},
+"phone":
+"+60 3-8999 0738",
+"website":
+"https://www.facebook.com/cafeamesoeur/",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11cr_sjfch&g2lbs=AOHF13nlY08hlwl9vapq9aoia-ELZ2zI7B1jnNwhrgk7FUCAeiVvxQwrTrPin3LBSo7RMPn8nigCy9s1Uy74pVgZwCPO2M2a3Q%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipMKaGEWuxX26rQqrga6GllZUx1b_BsOsoHhXxh0=w163-h92-k-no"
+},
+{
+"position":
+3,
+"title":
+"Ruma Puteh cafe",
+"place_id":
+"ChIJk0MrPxtJzDERxLNTIROYnBA",
+"data_id":
+"0x31cc491b3f2b4393:0x109c98132153b3c4",
+"data_cid":
+"1196998808904643524",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc491b3f2b4393%3A0x109c98132153b3c4&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc491b3f2b4393%3A0x109c98132153b3c4&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1748979,
+"longitude":
+101.7023849
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk0MrPxtJzDERxLNTIROYnBA",
+"provider_id":
+"/g/11k8jswd_6",
+"rating":
+4.1,
+"reviews":
+1488,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Breakfast restaurant",
+"Brunch restaurant",
+"Coffee shop",
+"Lunch restaurant",
+"Malaysian restaurant",
+"Restaurant",
+"Shooting event area",
+"Western restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"breakfast_restaurant",
+"brunch_restaurant",
+"coffee_shop",
+"lunch_restaurant",
+"malaysian_restaurant",
+"restaurant",
+"shooting_event_area",
+"western_restaurant"
+],
+"address":
+"60A, Jalan Kuantan, Taman Tasik Titiwangsa, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 9 AM",
+"hours":
+"Closed ⋅ Opens 9 AM",
+"operating_hours":
+{
+"friday":
+"9 AM–8 PM",
+"saturday":
+"9 AM–8 PM",
+"sunday":
+"9 AM–8 PM",
+"monday":
+"9 AM–8 PM",
+"tuesday":
+"9 AM–8 PM",
+"wednesday":
+"9 AM–8 PM",
+"thursday":
+"9 AM–8 PM"
+},
+"phone":
+"+60 17-300 4909",
+"website":
+"http://www.instagram.com/rumaputeh",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true,
+"no_contact_delivery":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipP328c9sdSav1QwPE8sHZlZNsIfZJkSTue0hE0c=w122-h92-k-no"
+},
+{
+"position":
+4,
+"title":
+"Cafe 99",
+"place_id":
+"ChIJe4asiVJFzDERMacG4jyx7Lc",
+"data_id":
+"0x31cc455289ac867b:0xb7ecb13ce206a731",
+"data_cid":
+"13253162678492768049",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc455289ac867b%3A0xb7ecb13ce206a731&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc455289ac867b%3A0xb7ecb13ce206a731&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.2342663,
+"longitude":
+101.5452274
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe4asiVJFzDERMacG4jyx7Lc",
+"provider_id":
+"/g/11syfnsbmj",
+"rating":
+4.1,
+"reviews":
+51,
+"type":
+"Restaurant",
+"types":
+[
+"Restaurant",
+"Coffee shop"
+],
+"type_id":
+"restaurant",
+"type_ids":
+[
+"restaurant",
+"coffee_shop"
+],
+"address":
+"2980-1, Lorong Melati, Kampung Gombak, 47000 Sungai Buloh, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 2:30 PM",
+"hours":
+"Closed ⋅ Opens 2:30 PM",
+"operating_hours":
+{
+"friday":
+"2:30–10 PM",
+"saturday":
+"12–10 PM",
+"sunday":
+"12–10 PM",
+"monday":
+"12–10 PM",
+"tuesday":
+"12–10 PM",
+"wednesday":
+"Closed",
+"thursday":
+"12–10 PM"
+},
+"phone":
+"+60 14-237 7237",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipMX1hE-J41MbTywcuyO7b106D38uiaXD4P9TpHI=w122-h92-k-no"
+},
+{
+"position":
+5,
+"title":
+"RUST KL CAFE & BAR",
+"place_id":
+"ChIJMRpyrTdJzDERrCIa_FD80v8",
+"data_id":
+"0x31cc4937ad721a31:0xffd2fc50fc1a22ac",
+"data_cid":
+"18434073649538015916",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4937ad721a31%3A0xffd2fc50fc1a22ac&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4937ad721a31%3A0xffd2fc50fc1a22ac&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1423522999999998,
+"longitude":
+101.6978357
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMRpyrTdJzDERrCIa_FD80v8",
+"provider_id":
+"/g/11rjm1lwrg",
+"rating":
+4.4,
+"reviews":
+130,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Cocktail bar",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"cocktail_bar",
+"restaurant"
+],
+"address":
+"115, Jalan Petaling, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 11 AM",
+"hours":
+"Closed ⋅ Opens 11 AM",
+"operating_hours":
+{
+"friday":
+"11 AM–1 AM",
+"saturday":
+"11 AM–1 AM",
+"sunday":
+"11 AM–12 AM",
+"monday":
+"11 AM–12 AM",
+"tuesday":
+"Closed",
+"wednesday":
+"11 AM–12 AM",
+"thursday":
+"11 AM–12 AM"
+},
+"phone":
+"+60 19-901 1150",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipMsr8g2f_3v44xM5-6kdDmM0qFCu0gbJ1vcZXCf=w80-h106-k-no"
+},
+{
+"position":
+6,
+"title":
+"bröom Artisan Bakery & Kitchen",
+"place_id":
+"ChIJcXK5WfNLzDERFMhoYRF2160",
+"data_id":
+"0x31cc4bf359b97271:0xadd776116168c814",
+"data_cid":
+"12526610705575102484",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4bf359b97271%3A0xadd776116168c814&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4bf359b97271%3A0xadd776116168c814&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1061813,
+"longitude":
+101.6247046
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcXK5WfNLzDERFMhoYRF2160",
+"provider_id":
+"/g/11q1dmhv7g",
+"rating":
+4.2,
+"reviews":
+714,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Bakery",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"bakery",
+"restaurant"
+],
+"address":
+"27, Jalan 20/13, Taman Paramount, 46300 Petaling Jaya, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 8:30 AM",
+"hours":
+"Closed ⋅ Opens 8:30 AM",
+"operating_hours":
+{
+"friday":
+"8:30 AM–10 PM",
+"saturday":
+"8:30 AM–10 PM",
+"sunday":
+"8:30 AM–10 PM",
+"monday":
+"8:30 AM–10 PM",
+"tuesday":
+"Closed",
+"wednesday":
+"8:30 AM–10 PM",
+"thursday":
+"8:30 AM–10 PM"
+},
+"phone":
+"+60 18-231 2823",
+"website":
+"http://www.broomartisanbakery.com/",
+"service_options":
+{
+"dine_in":
+true,
+"curbside_pickup":
+true,
+"delivery":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11q1dmhv7g&g2lbs=AOHF13koAzr1FpBNeLcJsIViZrNDgAoO0JX6Ux4ZiW9K7mbXgkL9Qbmvfzqx9CBh6AEt3lptbn2E1a7hgeSxhL5E2NblkyncHA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipPYT4tdBuIFQ9tD60Bc-e9pBfNiUe0RRqpMu9vC=w80-h106-k-no"
+},
+{
+"position":
+7,
+"title":
+"ANT Cafe & Bar",
+"place_id":
+"ChIJRVvwtLJLzDER8gbUnxloPWk",
+"data_id":
+"0x31cc4bb2b4f05b45:0x693d68199fd406f2",
+"data_cid":
+"7583331806826727154",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4bb2b4f05b45%3A0x693d68199fd406f2&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4bb2b4f05b45%3A0x693d68199fd406f2&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0837325,
+"longitude":
+101.6611121
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRVvwtLJLzDER8gbUnxloPWk",
+"provider_id":
+"/g/11f2wm7k0f",
+"rating":
+3.8,
+"reviews":
+308,
+"price":
+"$$",
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Bar",
+"Coffee store",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"bar",
+"coffee_store",
+"restaurant"
+],
+"address":
+"G-01 & G-02, Petalz Residences, Residency Rimbunan No. 2, Jalan 1/132A, Off, Jln Klang Lama, Kampung Pasir, 58000 Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 11 AM",
+"hours":
+"Closed ⋅ Opens 11 AM",
+"operating_hours":
+{
+"friday":
+"11 AM–12 AM",
+"saturday":
+"11 AM–12 AM",
+"sunday":
+"11 AM–12 AM",
+"monday":
+"11 AM–12 AM",
+"tuesday":
+"11 AM–12 AM",
+"wednesday":
+"11 AM–12 AM",
+"thursday":
+"11 AM–12 AM"
+},
+"phone":
+"+60 12-306 6999",
+"website":
+"https://www.facebook.com/ant.cafe.group/",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11f2wm7k0f&g2lbs=AOHF13lWvNmXzIXMIbVjXjcDcAWKs2nLqhqZd0LCSsBip7bL78okvoH1sBO3ncsGt225PSpiUBsD-D_R-o9rkUA1IOf4-YEn3Q%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipMMrxakabs-gT4jHj7T4g5FdWgkZk_2yS_AUjaK=w122-h92-k-no"
+},
+{
+"position":
+8,
+"title":
+"Milko Cafe'",
+"place_id":
+"ChIJV85cf_dJzDERRSV9e6pF_yk",
+"data_id":
+"0x31cc49f77f5cce57:0x29ff45aa7b7d2545",
+"data_cid":
+"3026214073134818629",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc49f77f5cce57%3A0x29ff45aa7b7d2545&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc49f77f5cce57%3A0x29ff45aa7b7d2545&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1620274,
+"longitude":
+101.7065069
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV85cf_dJzDERRSV9e6pF_yk",
+"provider_id":
+"/g/11tk06td1n",
+"rating":
+4.9,
+"reviews":
+497,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"C-G, 24 Legasi, Jalan Raja Muda Musa, Kampung Baru, 50300 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 11 AM",
+"hours":
+"Closed ⋅ Opens 11 AM",
+"operating_hours":
+{
+"friday":
+"11 AM–10 PM",
+"saturday":
+"11 AM–10 PM",
+"sunday":
+"11 AM–10 PM",
+"monday":
+"Closed",
+"tuesday":
+"11 AM–10 PM",
+"wednesday":
+"11 AM–10 PM",
+"thursday":
+"11 AM–10 PM"
+},
+"phone":
+"+60 12-746 8205",
+"service_options":
+{
+"dine_in":
+true,
+"curbside_pickup":
+true,
+"delivery":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11tk06td1n&g2lbs=AOHF13mmYSyep3EKZgeiYiQ8iPcMesaZRssV-A8ETrU0Y7ceGmcqTINmOoKm1H1J6Xp2FEqqX1N5_1qVePHQUJEhmOZ5VMr7PQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipPMM-G21xUGzeRHKlp3KUa0Z6hjpTh9cXFIkvog=w163-h92-k-no"
+},
+{
+"position":
+9,
+"title":
+"UNICORN 25 CAFE PUCHONG",
+"place_id":
+"ChIJ_f_sBFdLzDERvSdYwwZUbrE",
+"data_id":
+"0x31cc4b5704ecfffd:0xb16e5406c35827bd",
+"data_cid":
+"12785248780175288253",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4b5704ecfffd%3A0xb16e5406c35827bd&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4b5704ecfffd%3A0xb16e5406c35827bd&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0421328,
+"longitude":
+101.61935419999999
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_f_sBFdLzDERvSdYwwZUbrE",
+"provider_id":
+"/g/11fx8ggjyj",
+"rating":
+4.1,
+"reviews":
+217,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Dessert restaurant",
+"Western restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"dessert_restaurant",
+"western_restaurant"
+],
+"address":
+"SS-01-19 Skypod Square, Persiaran Puchong Jaya Selatan, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 9 AM",
+"hours":
+"Closed ⋅ Opens 9 AM",
+"operating_hours":
+{
+"friday":
+"9 AM–5 PM",
+"saturday":
+"9 AM–5 PM",
+"sunday":
+"9 AM–5 PM",
+"monday":
+"Closed",
+"tuesday":
+"9 AM–5 PM",
+"wednesday":
+"9 AM–5 PM",
+"thursday":
+"9 AM–5 PM"
+},
+"phone":
+"+60 18-250 2452",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true,
+"no_contact_delivery":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11fx8ggjyj&g2lbs=AOHF13klQDd-yqzVbwxm6RsGsikRJYKtUJP2xtTGBmYlkCT3PH7kHLd3jNyD5Ht2btWpHuyI9mQJ79gKmXQSDd8kt04S9IXtWQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipP_R1e6R1S_o3nJJfa3L_jXd1mrPc6gmYoSO4EE=w122-h92-k-no"
+},
+{
+"position":
+10,
+"title":
+"Lil' Bird & The Big Bear Cafe",
+"place_id":
+"ChIJ9_8us-JNzDERx1XB0ykmpqE",
+"data_id":
+"0x31cc4de2b32efff7:0xa1a62629d3c155c7",
+"data_cid":
+"11648039447328544199",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4de2b32efff7%3A0xa1a62629d3c155c7&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4de2b32efff7%3A0xa1a62629d3c155c7&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0491058,
+"longitude":
+101.58515829999999
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9_8us-JNzDERx1XB0ykmpqE",
+"provider_id":
+"/g/11r11tm9ns",
+"rating":
+4.5,
+"reviews":
+489,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Bistro",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"bistro",
+"restaurant"
+],
+"address":
+"24, Jalan USJ 10/1B, Taipan Business Centre, 47620 Subang Jaya, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 10 AM",
+"hours":
+"Closed ⋅ Opens 10 AM",
+"operating_hours":
+{
+"friday":
+"10 AM–11 PM",
+"saturday":
+"10 AM–11 PM",
+"sunday":
+"10 AM–11 PM",
+"monday":
+"10 AM–11 PM",
+"tuesday":
+"10 AM–11 PM",
+"wednesday":
+"10 AM–11 PM",
+"thursday":
+"10 AM–11 PM"
+},
+"phone":
+"+60 3-8011 6311",
+"website":
+"https://lilbirdbigbear.com/",
+"service_options":
+{
+"dine_in":
+true,
+"curbside_pickup":
+true,
+"no_contact_delivery":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11r11tm9ns&g2lbs=AOHF13lD0pyuRWNTUae9dyq6DKrWin7h6dGGob0pB9HdSb_yox2-enaNqudwv9QWX01HcV4Z_dO4JpksN40rr78iyvd-iZ9IFw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipMUZqPeVxMV3iKfRwi_3x3KAayXPwX20WTU9yKv=w139-h92-k-no"
+},
+{
+"position":
+11,
+"title":
+"The Komunal Cafe Bukit Rimau",
+"place_id":
+"ChIJVQMkIh6zzTERXNOaKxO1-1U",
+"data_id":
+"0x31cdb31e22240355:0x55fbb5132b9ad35c",
+"data_cid":
+"6195744806318822236",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cdb31e22240355%3A0x55fbb5132b9ad35c&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cdb31e22240355%3A0x55fbb5132b9ad35c&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0000364,
+"longitude":
+101.5265433
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVQMkIh6zzTERXNOaKxO1-1U",
+"provider_id":
+"/g/11nx476pj3",
+"rating":
+4.4,
+"reviews":
+400,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"SH-G-23, Pangsapuri Perkhidmatan Knox Wawasan Jalan Sungai Burung 32/68 Seksyen 32, Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 8:30 AM",
+"hours":
+"Closed ⋅ Opens 8:30 AM",
+"operating_hours":
+{
+"friday":
+"8:30 AM–9:30 PM",
+"saturday":
+"8:30 AM–9:30 PM",
+"sunday":
+"8:30 AM–9:30 PM",
+"monday":
+"8:30 AM–9:30 PM",
+"tuesday":
+"8:30 AM–9:30 PM",
+"wednesday":
+"8:30 AM–9:30 PM",
+"thursday":
+"8:30 AM–9:30 PM"
+},
+"phone":
+"+60 11-5325 6051",
+"website":
+"https://thekomunal.com/",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true,
+"delivery":
+true
+},
+"reserve_a_table":
+"https://www.google.com/maps/reserve/v/dine/c/fM5nKNqfvLE?source=pa&opi=79508299&hl=en-US&gei=NURiZsraKMXOp84P-sXs0AU&sourceurl=https://www.google.com/search?pb%3D!4m9!1m3!1d127483.50713412288!2d101.6841!3d3.1319!2m0!3m2!1i784!2i644!4f13.1!7i20!8i80!10b1!12m8!1m1!18b1!2m3!5m1!6e2!20e3!10b1!16b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sg3qzXsG-JpeGoATHyYKQBw:1!2zMWk6MSx0OjExODg3LGU6MCxwOmczcXpYc0ctSnBlR29BVEh5WUtRQnc6MQ!7e81!12e3!17sg3qzXsG-JpeGoATHyYKQBw:110!18e15!24m46!1m12!13m6!2b1!3b1!4b1!6i1!8b1!9b1!18m4!3b1!4b1!5b1!6b1!2b1!5m5!2b1!3b1!5b1!6b1!7b1!10m1!8e3!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!30m1!2b1!36b1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i458!2i644!1m6!1m2!1i734!2i0!2m2!1i784!2i644!1m6!1m2!1i0!2i0!2m2!1i784!2i20!1m6!1m2!1i0!2i624!2m2!1i784!2i644!34m13!2b1!3b1!4b1!6b1!8m3!1b1!3b1!4b1!9b1!12b1!14b1!20b1!23b1!37m1!1e81!42b1!47m0!49m1!3b1!50m4!2e2!3m2!1b1!3b0!65m0%26tbm%3Dmap%26q%3DCafe%26hl%3Den",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipOw0-ekP951r4OV6crgeBQhF8FAGIZAC2eCA5Kd=w122-h92-k-no"
+},
+{
+"position":
+12,
+"title":
+"KSO Cafe",
+"place_id":
+"ChIJKQI3bkW1zTERP4GavuEkJD8",
+"data_id":
+"0x31cdb5456e370229:0x3f2424e1be9a813f",
+"data_cid":
+"4549802075535081791",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cdb5456e370229%3A0x3f2424e1be9a813f&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cdb5456e370229%3A0x3f2424e1be9a813f&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0136423999999997,
+"longitude":
+101.69611809999999
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKQI3bkW1zTERP4GavuEkJD8",
+"provider_id":
+"/g/11t2_mkyw0",
+"rating":
+4.1,
+"reviews":
+37,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Chinese restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"chinese_restaurant"
+],
+"address":
+"16-G, Jalan BS1/3, Pusat Perdagangan Seri Kembangan, 43300 Seri Kembangan, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 12 PM",
+"hours":
+"Closed ⋅ Opens 12 PM",
+"operating_hours":
+{
+"friday":
+"12–3 PM",
+"saturday":
+"12–3 PM",
+"sunday":
+"12–3 PM",
+"monday":
+"12–3 PM",
+"tuesday":
+"12–3 PM",
+"wednesday":
+"12–3 PM",
+"thursday":
+"12–3 PM"
+},
+"phone":
+"+60 11-3322 9417",
+"service_options":
+{
+"dine_in":
+true,
+"curbside_pickup":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipOkiehmWKzwwa5ICgIkGWT29uox6Czuq03kcKUj=w122-h92-k-no"
+},
+{
+"position":
+13,
+"title":
+"Fahrenheit 600 Cafe & Restaurant",
+"place_id":
+"ChIJ5e6wBV5IzDERI8CONM0gEyI",
+"data_id":
+"0x31cc485e05b0eee5:0x221320cd348ec023",
+"data_cid":
+"2455342287569207331",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc485e05b0eee5%3A0x221320cd348ec023&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc485e05b0eee5%3A0x221320cd348ec023&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1707061,
+"longitude":
+101.6668797
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5e6wBV5IzDERI8CONM0gEyI",
+"provider_id":
+"/g/12qgdm21d",
+"rating":
+4.3,
+"reviews":
+636,
+"price":
+"$$",
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"A4-G2,05, 05, Jln Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 9:30 AM",
+"hours":
+"Closed ⋅ Opens 9:30 AM",
+"operating_hours":
+{
+"friday":
+"9:30 AM–10:30 PM",
+"saturday":
+"9:30 AM–10:30 PM",
+"sunday":
+"9:30 AM–10 PM",
+"monday":
+"9:30 AM–10 PM",
+"tuesday":
+"9:30 AM–10 PM",
+"wednesday":
+"9:30 AM–10 PM",
+"thursday":
+"9:30 AM–10 PM"
+},
+"phone":
+"+60 11-1600 9866",
+"website":
+"https://watsoniaoverseas.com/f600/",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true
+},
+"reserve_a_table":
+"https://www.google.com/maps/reserve/v/dine/c/k7S-8YwUwf0?source=pa&opi=79508299&hl=en-US&gei=NURiZsraKMXOp84P-sXs0AU&sourceurl=https://www.google.com/search?pb%3D!4m9!1m3!1d127483.50713412288!2d101.6841!3d3.1319!2m0!3m2!1i784!2i644!4f13.1!7i20!8i80!10b1!12m8!1m1!18b1!2m3!5m1!6e2!20e3!10b1!16b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sg3qzXsG-JpeGoATHyYKQBw:1!2zMWk6MSx0OjExODg3LGU6MCxwOmczcXpYc0ctSnBlR29BVEh5WUtRQnc6MQ!7e81!12e3!17sg3qzXsG-JpeGoATHyYKQBw:110!18e15!24m46!1m12!13m6!2b1!3b1!4b1!6i1!8b1!9b1!18m4!3b1!4b1!5b1!6b1!2b1!5m5!2b1!3b1!5b1!6b1!7b1!10m1!8e3!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!30m1!2b1!36b1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i458!2i644!1m6!1m2!1i734!2i0!2m2!1i784!2i644!1m6!1m2!1i0!2i0!2m2!1i784!2i20!1m6!1m2!1i0!2i624!2m2!1i784!2i644!34m13!2b1!3b1!4b1!6b1!8m3!1b1!3b1!4b1!9b1!12b1!14b1!20b1!23b1!37m1!1e81!42b1!47m0!49m1!3b1!50m4!2e2!3m2!1b1!3b0!65m0%26tbm%3Dmap%26q%3DCafe%26hl%3Den",
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/12qgdm21d&g2lbs=AOHF13mhZmYdmu1O6SvEOMs8Yth5IVALmiB9f9S2Svm77-JuvQrylpCfm8vx1EWI3qzIDRKm-E5fQoN1jMEFw_kA7d6fC6UGXg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipMo4aPx2aFRoJfhjfW3obXLLlPsInCtlt74xp2X=w122-h92-k-no"
+},
+{
+"position":
+14,
+"title":
+"Kueh Cafe Subang Jaya",
+"place_id":
+"ChIJNXnri8BNzDERT8DjzkoqJX0",
+"data_id":
+"0x31cc4dc08beb7935:0x7d252a4acee3c04f",
+"data_cid":
+"9017660329666265167",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4dc08beb7935%3A0x7d252a4acee3c04f&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4dc08beb7935%3A0x7d252a4acee3c04f&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0727124999999997,
+"longitude":
+101.5853685
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNXnri8BNzDERT8DjzkoqJX0",
+"provider_id":
+"/g/11sfg7bqld",
+"rating":
+4,
+"reviews":
+153,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"11G, Jalan SS 18/1b, Ss18, 47500 Subang Jaya, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 8 AM",
+"hours":
+"Closed ⋅ Opens 8 AM",
+"operating_hours":
+{
+"friday":
+"8 AM–1 PM",
+"saturday":
+"8 AM–6 PM",
+"sunday":
+"8 AM–6 PM",
+"monday":
+"Closed",
+"tuesday":
+"8 AM–6 PM",
+"wednesday":
+"8 AM–6 PM",
+"thursday":
+"8 AM–6 PM"
+},
+"phone":
+"+60 11-5407 2058",
+"website":
+"https://linktr.ee/kuehcafe",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true,
+"delivery":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipPxNcM-FFc0odECPLeN0W3BIhdipK82tI3Og28Q=w80-h106-k-no"
+},
+{
+"position":
+15,
+"title":
+"Yu.Mee cafe",
+"place_id":
+"ChIJicS8tQg3zDERzRQHZrqyiX0",
+"data_id":
+"0x31cc3708b5bcc489:0x7d89b2ba660714cd",
+"data_cid":
+"9045957840195753165",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc3708b5bcc489%3A0x7d89b2ba660714cd&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc3708b5bcc489%3A0x7d89b2ba660714cd&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1507483,
+"longitude":
+101.7117222
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJicS8tQg3zDERzRQHZrqyiX0",
+"provider_id":
+"/g/11sh630y4v",
+"rating":
+4.6,
+"reviews":
+72,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Health food restaurant",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"health_food_restaurant",
+"restaurant"
+],
+"address":
+"Wisma Cosway, Lot 1.76, Level, 1, Jalan Raja Chulan, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 10 AM",
+"hours":
+"Closed ⋅ Opens 10 AM",
+"operating_hours":
+{
+"friday":
+"10 AM–9 PM",
+"saturday":
+"10 AM–9 PM",
+"sunday":
+"Closed",
+"monday":
+"10 AM–9 PM",
+"tuesday":
+"10 AM–9 PM",
+"wednesday":
+"10 AM–9 PM",
+"thursday":
+"10 AM–9 PM"
+},
+"phone":
+"+60 11-5522 2327",
+"website":
+"https://www.facebook.com/yu.mee.cafe/",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true,
+"no_contact_delivery":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipNVqIUozpl4rlFLaSj_IiPoN5IClcQHWYVO_Ufk=w122-h92-k-no"
+},
+{
+"position":
+16,
+"title":
+"Dplace Cafe @ 悦食坊 - Bandar Sunway",
+"place_id":
+"ChIJgRGH9DBNzDERCAKgrZsJPxs",
+"data_id":
+"0x31cc4d30f4871181:0x1b3f099bada00208",
+"data_cid":
+"1963298526794351112",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4d30f4871181%3A0x1b3f099bada00208&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4d30f4871181%3A0x1b3f099bada00208&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0659666,
+"longitude":
+101.6031251
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgRGH9DBNzDERCAKgrZsJPxs",
+"provider_id":
+"/g/11fhz1b3bz",
+"rating":
+4.7,
+"reviews":
+401,
+"price":
+"$$",
+"type":
+"Restaurant",
+"types":
+[
+"Restaurant",
+"Asian fusion restaurant",
+"Chinese noodle restaurant",
+"Coffee shop",
+"Fusion restaurant",
+"Taiwanese restaurant"
+],
+"type_id":
+"restaurant",
+"type_ids":
+[
+"restaurant",
+"asian_fusion_restaurant",
+"chinese_noodle_restaurant",
+"coffee_shop",
+"fusion_restaurant",
+"taiwanese_restaurant"
+],
+"address":
+"75, Jalan PJS 11/9, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 10 AM",
+"hours":
+"Closed ⋅ Opens 10 AM",
+"operating_hours":
+{
+"friday":
+"10 AM–9 PM",
+"saturday":
+"11 AM–9 PM",
+"sunday":
+"11 AM–9 PM",
+"monday":
+"10 AM–9 PM",
+"tuesday":
+"10 AM–9 PM",
+"wednesday":
+"10 AM–9 PM",
+"thursday":
+"10 AM–9 PM"
+},
+"phone":
+"+60 17-347 2393",
+"website":
+"http://www.dplacejoy.cafe/",
+"service_options":
+{
+"dine_in":
+true,
+"curbside_pickup":
+true,
+"no_contact_delivery":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11fhz1b3bz&g2lbs=AOHF13l1jh5dN9rTZEEZ5p6v20huTKL6_8wONPZB8aGQD9-ul-4voGrcks2NGfGOKCpvZD7OjBpB7Fkqs4m5R1Ts9tK8uL9l8A%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipNznHjF2Q8Cl3w7iz2dhnjlYL7-njf7zUfP-5hT=w122-h92-k-no"
+},
+{
+"position":
+17,
+"title":
+"BaoBao Cafe",
+"place_id":
+"ChIJgXnQs_hLzDERhJ__J1AHdz0",
+"data_id":
+"0x31cc4bf8b3d07981:0x3d77075027ff9f84",
+"data_cid":
+"4429016799392014212",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc4bf8b3d07981%3A0x3d77075027ff9f84&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc4bf8b3d07981%3A0x3d77075027ff9f84&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0816686,
+"longitude":
+101.6766782
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgXnQs_hLzDERhJ__J1AHdz0",
+"provider_id":
+"/g/11ttb1jch8",
+"rating":
+4.7,
+"reviews":
+448,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"213, Jalan Sepadu, Taman United, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 10 AM",
+"hours":
+"Closed ⋅ Opens 10 AM",
+"operating_hours":
+{
+"friday":
+"10 AM–10 PM",
+"saturday":
+"10 AM–10 PM",
+"sunday":
+"10 AM–10 PM",
+"monday":
+"10 AM–10 PM",
+"tuesday":
+"10 AM–10 PM",
+"wednesday":
+"10 AM–10 PM",
+"thursday":
+"10 AM–10 PM"
+},
+"phone":
+"+60 12-258 9955",
+"service_options":
+{
+"dine_in":
+true,
+"drive_through":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11ttb1jch8&g2lbs=AOHF13mY4e8RbaQxxXHzwhDVicv64nYjawkXG1BYR7SiGk7RIabU6JVOqVkWYqo46U3-XYIubnVrLtw-WYLBrFWzMBmjiZmuMw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipMxRfM5J3u6qCJsIzlHBIETQ5vH1G-mies3CdrN=w163-h92-k-no"
+},
+{
+"position":
+18,
+"title":
+"Keopi & Sul. - Cafe & Bistro",
+"place_id":
+"ChIJGZV-yH1JzDERIPWaDmZdi_Q",
+"data_id":
+"0x31cc497dc87e9519:0xf48b5d660e9af520",
+"data_cid":
+"17621280659930281248",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc497dc87e9519%3A0xf48b5d660e9af520&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc497dc87e9519%3A0xf48b5d660e9af520&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1725974999999997,
+"longitude":
+101.6625426
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGZV-yH1JzDERIPWaDmZdi_Q",
+"provider_id":
+"/g/11rr75tc5q",
+"rating":
+4.4,
+"reviews":
+137,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Bistro",
+"Event venue",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"bistro",
+"event_venue",
+"restaurant"
+],
+"address":
+"Shoplot 2, Residensi Duta Kiara, Jln Duta Hartamas, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+"open_state":
+"Closed ⋅ Opens 9 AM",
+"hours":
+"Closed ⋅ Opens 9 AM",
+"operating_hours":
+{
+"friday":
+"9 AM–7 PM",
+"saturday":
+"9 AM–7 PM",
+"sunday":
+"9 AM–7 PM",
+"monday":
+"9 AM–7 PM",
+"tuesday":
+"9 AM–7 PM",
+"wednesday":
+"9 AM–7 PM",
+"thursday":
+"9 AM–7 PM"
+},
+"phone":
+"+60 14-699 3343",
+"service_options":
+{
+"dine_in":
+true,
+"drive_through":
+true,
+"no_contact_delivery":
+true
+},
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11rr75tc5q&g2lbs=AOHF13m8eJHt_S5vesz5q6JkMDIVCEQ0WybyyQnWLwfCVAv4A-1PtxwFkXqmm0LAjszbp44sH33_-cIhvuAdlgxKf1Qh5quhCw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipNIe7q0USQxOV8T8acTx0owi6qrcMfeC3bYxotj=w122-h92-k-no"
+},
+{
+"position":
+19,
+"title":
+"NOTA | Cafe · Restaurant",
+"place_id":
+"ChIJ50fhkqSzzTERqgqGpUsPnzk",
+"data_id":
+"0x31cdb3a492e147e7:0x399f0f4ba5860aaa",
+"data_cid":
+"4152054199032875690",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cdb3a492e147e7%3A0x399f0f4ba5860aaa&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cdb3a492e147e7%3A0x399f0f4ba5860aaa&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.0039768,
+"longitude":
+101.5356236
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ50fhkqSzzTERqgqGpUsPnzk",
+"provider_id":
+"/g/11rn3ymly8",
+"rating":
+4.4,
+"reviews":
+670,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"No. 1-1, First Floor, Jln Anggerik Vanilla BF 31/BF, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 10 AM",
+"hours":
+"Closed ⋅ Opens 10 AM",
+"operating_hours":
+{
+"friday":
+"10 AM–10 PM",
+"saturday":
+"10 AM–10 PM",
+"sunday":
+"10 AM–10 PM",
+"monday":
+"10 AM–10 PM",
+"tuesday":
+"10 AM–10 PM",
+"wednesday":
+"Closed",
+"thursday":
+"10 AM–10 PM"
+},
+"phone":
+"+60 17-489 1189",
+"website":
+"https://notakl.com/",
+"service_options":
+{
+"dine_in":
+true,
+"curbside_pickup":
+true,
+"no_contact_delivery":
+true
+},
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipNqkzgKWV1ddO39vWC--nSszIIQXu3cXR1zXGTu=w137-h92-k-no"
+},
+{
+"position":
+20,
+"title":
+"半刻 Ban Ke Cafe @ Happy Mansion",
+"place_id":
+"ChIJJ3qglK9JzDERCzp4459AqIc",
+"data_id":
+"0x31cc49af94a07a27:0x87a8409fe3783a0b",
+"data_cid":
+"9775134046667946507",
+"reviews_link":
+"https://serpapi.com/search.json?data_id=0x31cc49af94a07a27%3A0x87a8409fe3783a0b&engine=google_maps_reviews&hl=en",
+"photos_link":
+"https://serpapi.com/search.json?data_id=0x31cc49af94a07a27%3A0x87a8409fe3783a0b&engine=google_maps_photos&hl=en",
+"gps_coordinates":
+{
+"latitude":
+3.1234279999999996,
+"longitude":
+101.63480399999999
+},
+"place_id_search":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ3qglK9JzDERCzp4459AqIc",
+"provider_id":
+"/g/11txpzkpts",
+"rating":
+4.5,
+"reviews":
+100,
+"type":
+"Cafe",
+"types":
+[
+"Cafe",
+"Restaurant"
+],
+"type_id":
+"cafe",
+"type_ids":
+[
+"cafe",
+"restaurant"
+],
+"address":
+"Happy Mansion, BG-6 Block B Jalan 17/13 Petaling Jaya, 46400 Damansara, Selangor, Malaysia",
+"open_state":
+"Closed ⋅ Opens 10 AM",
+"hours":
+"Closed ⋅ Opens 10 AM",
+"operating_hours":
+{
+"friday":
+"10 AM–6 PM",
+"saturday":
+"10 AM–6 PM",
+"sunday":
+"10 AM–6 PM",
+"monday":
+"Closed",
+"tuesday":
+"10 AM–6 PM",
+"wednesday":
+"10 AM–6 PM",
+"thursday":
+"10 AM–6 PM"
+},
+"phone":
+"+60 16-577 1828",
+"website":
+"https://linktr.ee/bankecafe",
+"service_options":
+{
+"dine_in":
+true,
+"takeout":
+true,
+"delivery":
+true
+},
+"reserve_a_table":
+"https://www.google.com/maps/reserve/v/dine/c/l7pxrFqDQm4?source=pa&opi=79508299&hl=en-US&gei=NURiZsraKMXOp84P-sXs0AU&sourceurl=https://www.google.com/search?pb%3D!4m9!1m3!1d127483.50713412288!2d101.6841!3d3.1319!2m0!3m2!1i784!2i644!4f13.1!7i20!8i80!10b1!12m8!1m1!18b1!2m3!5m1!6e2!20e3!10b1!16b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sg3qzXsG-JpeGoATHyYKQBw:1!2zMWk6MSx0OjExODg3LGU6MCxwOmczcXpYc0ctSnBlR29BVEh5WUtRQnc6MQ!7e81!12e3!17sg3qzXsG-JpeGoATHyYKQBw:110!18e15!24m46!1m12!13m6!2b1!3b1!4b1!6i1!8b1!9b1!18m4!3b1!4b1!5b1!6b1!2b1!5m5!2b1!3b1!5b1!6b1!7b1!10m1!8e3!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!30m1!2b1!36b1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i458!2i644!1m6!1m2!1i734!2i0!2m2!1i784!2i644!1m6!1m2!1i0!2i0!2m2!1i784!2i20!1m6!1m2!1i0!2i624!2m2!1i784!2i644!34m13!2b1!3b1!4b1!6b1!8m3!1b1!3b1!4b1!9b1!12b1!14b1!20b1!23b1!37m1!1e81!42b1!47m0!49m1!3b1!50m4!2e2!3m2!1b1!3b0!65m0%26tbm%3Dmap%26q%3DCafe%26hl%3Den",
+"order_online":
+"https://food.google.com/chooseprovider?restaurantId=/g/11txpzkpts&g2lbs=AOHF13lIuG-lrWdmVKTnPn-HzSuS5u2fvMTN58oA7-EMAwyaprUeb1vFSBj_hae6NhEdBC2eN933AOuLsIOHhI05rzSTi4SFWg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=NURiZsraKMXOp84P-sXs0AU&ei=NURiZsraKMXOp84P-sXs0AU&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+"thumbnail":
+"https://lh5.googleusercontent.com/p/AF1QipOSiq92CJQKzgR8TZyxZ-PgYnfLsQLR_GTIZMie=w122-h92-k-no"
+}
+],
+"serpapi_pagination":
+{
+"next":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%403.1319%2C+101.6841%2C12z&q=Cafe&start=100&type=search",
+"current":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%403.1319%2C+101.6841%2C12z&q=Cafe&start=80&type=search",
+"previous":
+"https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%403.1319%2C+101.6841%2C12z&q=Cafe&start=60&type=search"
+}
+}
